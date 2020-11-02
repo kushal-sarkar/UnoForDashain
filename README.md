@@ -3,8 +3,3 @@ Dashain is a big festival, which is celebrated in Nepal. People do various activ
 
 As I had a basic Python knowledge, I planned to write a bunch of ``` if-else ``` statements to kill some leisure time, and to ease the "accounting" of the game. I ended up coding 300+ lines. Go through it! And leave a feedback @kushal.sarkar on Instagram. LOL!
 
-### Prerequisites
-#### Running the code
-``
-for i in range(0,10)
-``
